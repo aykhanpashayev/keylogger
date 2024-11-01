@@ -13,7 +13,7 @@ A simple keylogger created in Python using "pynput" library. This keylogger reco
 
 # How to use it
 - Clone this repository: git clone https://github.com/aykhanpashayev/keylogger.git
-- Install required library: pip install pynput
+- Install required library: pip install pynput - Windows; sudo apt install python3-pynput - Linux;
 - Run: python keylogger.py
 
 # How it works:
